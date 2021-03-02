@@ -1,4 +1,4 @@
-# Put title of your app here
+# Puppy Store
 
 <!--- Replace <OWNER> with your Github Username and <REPOSITORY> with the name of your repository. -->
 <!--- You can find both of these in the url bar when you open your repository in github. -->
@@ -7,11 +7,12 @@
 
 ## :scroll: Description
 <!--- Describe your app in one or two sentences -->
-
+Puppy store is an online store to adopt a puppy worldwide in good and exciting price and with amazing offers. App contains list of puppies and their detail.
 
 ## :bulb: Motivation and Context
 <!--- Optionally point readers to interesting parts of your submission. -->
 <!--- What are you especially proud of? -->
+Are you gonna buy a pup?? Come here and capture your interest.. :)
 
 
 ## :camera_flash: Screenshots
